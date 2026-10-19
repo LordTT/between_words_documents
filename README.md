@@ -1,8 +1,10 @@
-Privacy Policy for Between Words
+# Privacy Policy for Between Words
 
-**Effective date:** 1 September 2026
+**Effective date:** 19 October 2026
 
-**Publisher / data controller:** Smoking Games
+**Publisher / data controller:** Teo Ferrari, trading as Smoking Games
+
+**Postal address:** Rue des Alpes 7, 1030 Bussigny, Switzerland
 
 **Privacy contact:** smokinggames.contact@gmail.com
 
@@ -18,14 +20,11 @@ On Android, Google Play processes the optional one-time full-game purchase. The 
 
 On Steam, Valve processes purchase, licensing, and distribution information. The game does not receive payment-card details.
 
-## Optional cloud saves
+## Local-only progress
 
-If you choose cloud synchronization:
+Progress is stored only on the current device. There is no cross-device progress synchronization. Steam demo and full editions share the same local save location on the same computer. Android Restore Purchase restores purchase access, not puzzle progress. Unfinished boards restart when left.
 
-- Steam Auto-Cloud may store the game's progress files in your Steam Cloud account.
-- Google Play Games Saved Games may store an encoded copy of game progress in your Google Play Games account.
-
-Cloud synchronization is limited to the store ecosystem in which you play. Steam and Google Play progress are not linked. The game remains playable and continues saving locally when cloud sign-in or synchronization is unavailable.
+Pending Google Play acknowledgement tokens are stored locally until purchase confirmation succeeds or ownership is confirmed lost. Payment details are handled by Google Play.
 
 ## Information the publisher does not collect
 
@@ -33,7 +32,7 @@ The publisher does not collect advertising identifiers, location, contacts, phot
 
 ## Retention and deletion
 
-Local progress remains on your device until app data is cleared or the game is uninstalled. Cloud copies remain subject to Google Play Games or Steam controls. You may disable cloud synchronization in the applicable platform settings and may contact smokinggames.contact@gmail.com with a privacy request.
+Local progress remains on your device until app data is cleared or the game is uninstalled. This release does not create cloud progress copies or automatically delete any historical remote data. You may contact smokinggames.contact@gmail.com with a privacy request.
 
 ## Children
 
@@ -41,12 +40,14 @@ Between Words is not designed to collect personal information from children or a
 
 ## Security and international processing
 
-The publisher does not transmit game data to a publisher-operated server. Platform providers may process purchase and optional cloud-save data in other countries under their own safeguards and policies.
+The publisher does not transmit game data to a publisher-operated server. Platform providers may process purchase data in other countries under their own safeguards and policies.
+
+## Support correspondence
+
+If you contact Support, your email address and the information you provide are used to answer your request. The game opens your email application only when requested and never sends email automatically.
 
 ## Changes and contact
 
 Material changes will be reflected by updating the effective date. Questions may be sent to smokinggames.contact@gmail.com.
 
 Platform policies: https://policies.google.com/privacy, https://play.google.com/about/play-terms/, and https://store.steampowered.com/privacy_agreement/
-
-Obtain professional legal review where appropriate before publication.
